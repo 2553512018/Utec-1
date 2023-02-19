@@ -1,0 +1,33 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "parcial1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "parcial1 (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "parcial1 (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "type": "dart",
+            "request": "launch",
+            "name": "Flutter en LDPlayer",
+            "deviceId": "LDPlayer",
+            "flutterMode": "debug",
+            "program": "lib/main.dart"
+        }
+    ]
+}
