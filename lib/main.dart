@@ -11,7 +11,6 @@ class parcial1 extends StatelessWidget {
   final _apellidoinput = TextField();
   final _userinput = TextField();
 
-  // This widget is the root of your application.
   @override
   final _carnetController = TextEditingController();
   final _nombreController = TextEditingController();
